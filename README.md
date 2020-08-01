@@ -1,5 +1,8 @@
-# SmartBrain-api - v2
-Final project for Udemy course
+# SmartBrain-api
+
+Final project for Web Development Course (backend)
+
+frontend is on https://github.com/zongweif/smart-brain
 
 1. Clone this repo
 2. Run `npm install`
